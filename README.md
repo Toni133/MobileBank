@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/6dcg7xi3u68l7td3?svg=true)](https://ci.appveyor.com/project/Toni133/mobilebank)
+[![Build status](https://ci.appveyor.com/api/projects/status/6dcg7xi3u68l7td3/branch/main?svg=true)](https://ci.appveyor.com/project/Toni133/mobilebank/branch/main)
